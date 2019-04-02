@@ -1,0 +1,63 @@
+C:\Users\MISBAH\Desktop\Application1\Application1\bin\Debug\Application1.exe.config
+C:\Users\MISBAH\Desktop\Application1\Application1\bin\Debug\Application1.exe
+C:\Users\MISBAH\Desktop\Application1\Application1\bin\Debug\Application1.pdb
+C:\Users\MISBAH\Desktop\Application1\Application1\obj\Debug\Application1.csprojResolveAssemblyReference.cache
+C:\Users\MISBAH\Desktop\Application1\Application1\obj\Debug\Application1.Form1.resources
+C:\Users\MISBAH\Desktop\Application1\Application1\obj\Debug\Application1.Properties.Resources.resources
+C:\Users\MISBAH\Desktop\Application1\Application1\obj\Debug\Application1.csproj.GenerateResource.Cache
+C:\Users\MISBAH\Desktop\Application1\Application1\obj\Debug\Application1.exe
+C:\Users\MISBAH\Desktop\Application1\Application1\obj\Debug\Application1.pdb
+E:\2nd Year 2nd Semester\Mehedi Sir\Calculator_M\Application1\bin\Debug\Application1.exe.config
+E:\2nd Year 2nd Semester\Mehedi Sir\Calculator_M\Application1\obj\Debug\Application1.exe
+E:\2nd Year 2nd Semester\Mehedi Sir\Calculator_M\Application1\obj\Debug\Application1.pdb
+E:\2nd Year 2nd Semester\Mehedi Sir\Calculator_M\Application1\bin\Debug\Application1.exe
+E:\2nd Year 2nd Semester\Mehedi Sir\Calculator_M\Application1\bin\Debug\Application1.pdb
+E:\2nd Year 2nd Semester\Mehedi Sir\Calculator_M\Application1\obj\Debug\Application1.csprojResolveAssemblyReference.cache
+E:\2nd Year 2nd Semester\Mehedi Sir\Calculator_M\Application1\obj\Debug\Application1.Form1.resources
+E:\2nd Year 2nd Semester\Mehedi Sir\Calculator_M\Application1\obj\Debug\Application1.Properties.Resources.resources
+E:\2nd Year 2nd Semester\Mehedi Sir\Calculator_M\Application1\obj\Debug\Application1.csproj.GenerateResource.Cache
+J:\MISBAH CE-13021\Calculator_M\Application1\bin\Debug\Application1.exe.config
+J:\MISBAH CE-13021\Calculator_M\Application1\obj\Debug\Application1.exe
+J:\MISBAH CE-13021\Calculator_M\Application1\obj\Debug\Application1.pdb
+J:\MISBAH CE-13021\Calculator_M\Application1\bin\Debug\Application1.exe
+J:\MISBAH CE-13021\Calculator_M\Application1\bin\Debug\Application1.pdb
+J:\MISBAH CE-13021\Calculator_M\Application1\obj\Debug\Application1.csprojResolveAssemblyReference.cache
+J:\MISBAH CE-13021\Calculator_M\Application1\obj\Debug\Application1.Form1.resources
+J:\MISBAH CE-13021\Calculator_M\Application1\obj\Debug\Application1.Properties.Resources.resources
+J:\MISBAH CE-13021\Calculator_M\Application1\obj\Debug\Application1.csproj.GenerateResource.Cache
+C:\Users\Habib\Desktop\MISBAH_CSE\MISBAH CE-13021\Calculator_M\Application1\bin\Debug\Application1.exe.config
+C:\Users\Habib\Desktop\MISBAH_CSE\MISBAH CE-13021\Calculator_M\Application1\obj\Debug\Application1.exe
+C:\Users\Habib\Desktop\MISBAH_CSE\MISBAH CE-13021\Calculator_M\Application1\obj\Debug\Application1.pdb
+C:\Users\Habib\Desktop\misbah\MISBAH_CSE\MISBAH CE-13021\Calculator_M\Application1\bin\Debug\Application1.exe.config
+C:\Users\Habib\Desktop\misbah\MISBAH_CSE\MISBAH CE-13021\Calculator_M\Application1\obj\Debug\Application1.exe
+C:\Users\Habib\Desktop\misbah\MISBAH_CSE\MISBAH CE-13021\Calculator_M\Application1\obj\Debug\Application1.pdb
+C:\Users\Habib\Desktop\misbah\MISBAH_CSE\MISBAH CE-13021\Calculator_M\Application1\bin\Debug\Application1.exe
+C:\Users\Habib\Desktop\misbah\MISBAH_CSE\MISBAH CE-13021\Calculator_M\Application1\bin\Debug\Application1.pdb
+C:\Users\Habib\Desktop\misbah\MISBAH_CSE\MISBAH CE-13021\Calculator_M\Application1\obj\Debug\Application1.csprojResolveAssemblyReference.cache
+C:\Users\Habib\Desktop\misbah\MISBAH_CSE\MISBAH CE-13021\Calculator_M\Application1\obj\Debug\Application1.Form1.resources
+C:\Users\Habib\Desktop\misbah\MISBAH_CSE\MISBAH CE-13021\Calculator_M\Application1\obj\Debug\Application1.Properties.Resources.resources
+C:\Users\Habib\Desktop\misbah\MISBAH_CSE\MISBAH CE-13021\Calculator_M\Application1\obj\Debug\Application1.csproj.GenerateResource.Cache
+E:\2nd Year 2nd Semester\C#_Mehedi_Sir\c# code & Lab\MISBAH, CE-13021\Code\Scientific_Calculator\Application1\bin\Debug\Application1.exe.config
+E:\2nd Year 2nd Semester\C#_Mehedi_Sir\c# code & Lab\MISBAH, CE-13021\Code\Scientific_Calculator\Application1\obj\Debug\Application1.exe
+E:\2nd Year 2nd Semester\C#_Mehedi_Sir\c# code & Lab\MISBAH, CE-13021\Code\Scientific_Calculator\Application1\obj\Debug\Application1.pdb
+E:\2nd Year 2nd Semester\C#_Mehedi_Sir\c# code & Lab\MISBAH, CE-13021\Code\Scientific_Calculator\Application1\bin\Debug\Application1.exe
+E:\2nd Year 2nd Semester\C#_Mehedi_Sir\c# code & Lab\MISBAH, CE-13021\Code\Scientific_Calculator\Application1\bin\Debug\Application1.pdb
+E:\2nd Year 2nd Semester\C#_Mehedi_Sir\c# code & Lab\MISBAH, CE-13021\Code\Scientific_Calculator\Application1\obj\Debug\Application1.csprojResolveAssemblyReference.cache
+E:\2nd Year 2nd Semester\C#_Mehedi_Sir\c# code & Lab\MISBAH, CE-13021\Code\Scientific_Calculator\Application1\obj\Debug\Application1.Form1.resources
+E:\2nd Year 2nd Semester\C#_Mehedi_Sir\c# code & Lab\MISBAH, CE-13021\Code\Scientific_Calculator\Application1\obj\Debug\Application1.Properties.Resources.resources
+E:\2nd Year 2nd Semester\C#_Mehedi_Sir\c# code & Lab\MISBAH, CE-13021\Code\Scientific_Calculator\Application1\obj\Debug\Application1.csproj.GenerateResource.Cache
+E:\2nd Year 2nd Semester\C#_Mehedi_Sir\Final_C#_Code\Scientific_Calculator\Application1\bin\Debug\Application1.exe.config
+E:\2nd Year 2nd Semester\C#_Mehedi_Sir\Final_C#_Code\Scientific_Calculator\Application1\obj\Debug\Application1.exe
+E:\2nd Year 2nd Semester\C#_Mehedi_Sir\Final_C#_Code\Scientific_Calculator\Application1\obj\Debug\Application1.pdb
+D:\SECOND YEAR SECOND SEMESTER\CSE2201  Algorithm Design & Analysis\algorithm lab final\Theroy\MISBAH_CSE\CE-13021\Scientific_Calculator\Application1\bin\Debug\Application1.exe.config
+D:\SECOND YEAR SECOND SEMESTER\CSE2201  Algorithm Design & Analysis\algorithm lab final\Theroy\MISBAH_CSE\CE-13021\Scientific_Calculator\Application1\obj\Debug\Application1.exe
+D:\SECOND YEAR SECOND SEMESTER\CSE2201  Algorithm Design & Analysis\algorithm lab final\Theroy\MISBAH_CSE\CE-13021\Scientific_Calculator\Application1\obj\Debug\Application1.pdb
+D:\SECOND YEAR SECOND SEMESTER\CSE2214  Visual Programming Lab-I\All C# program\Scientific_Calculator\Application1\bin\Debug\Application1.exe.config
+D:\SECOND YEAR SECOND SEMESTER\CSE2214  Visual Programming Lab-I\All C# program\Scientific_Calculator\Application1\obj\Debug\Application1.exe
+D:\SECOND YEAR SECOND SEMESTER\CSE2214  Visual Programming Lab-I\All C# program\Scientific_Calculator\Application1\obj\Debug\Application1.pdb
+D:\SECOND YEAR SECOND SEMESTER\CSE2214  Visual Programming Lab-I\All C# program\Scientific_Calculator\Application1\bin\Debug\Application1.exe
+D:\SECOND YEAR SECOND SEMESTER\CSE2214  Visual Programming Lab-I\All C# program\Scientific_Calculator\Application1\bin\Debug\Application1.pdb
+D:\SECOND YEAR SECOND SEMESTER\CSE2214  Visual Programming Lab-I\All C# program\Scientific_Calculator\Application1\obj\Debug\Application1.csprojResolveAssemblyReference.cache
+D:\SECOND YEAR SECOND SEMESTER\CSE2214  Visual Programming Lab-I\All C# program\Scientific_Calculator\Application1\obj\Debug\Application1.Form1.resources
+D:\SECOND YEAR SECOND SEMESTER\CSE2214  Visual Programming Lab-I\All C# program\Scientific_Calculator\Application1\obj\Debug\Application1.Properties.Resources.resources
+D:\SECOND YEAR SECOND SEMESTER\CSE2214  Visual Programming Lab-I\All C# program\Scientific_Calculator\Application1\obj\Debug\Application1.csproj.GenerateResource.Cache
